@@ -1,0 +1,555 @@
+.bdy {
+    background-image: url("Landing-page.jpg");
+    overflow: auto;
+    background-size: 100% auto;
+
+
+    background-repeat: no-repeat;
+
+    width: 100%;
+    height: 100%;
+    position: relative;
+
+}
+
+.bdy2 {
+    background-image: url("sign-in.png");
+    overflow: auto;
+    background-size: 100% auto;
+
+
+    background-repeat: no-repeat;
+
+    width: 100%;
+    height: 100%;
+    position: relative;
+
+}
+
+.bdy3 {
+    background-image: url("Landing-page\ \(1\).png");
+    overflow: auto;
+    background-size: 100% auto;
+
+
+    background-repeat: no-repeat;
+
+    width: 100%;
+    height: 100%;
+    position: relative;
+
+}
+
+.bdy4 {
+    background-image: url("Ready.png");
+    overflow: auto;
+    background-size: 100% auto;
+
+
+    background-repeat: no-repeat;
+
+    width: 100%;
+    height: 100%;
+    position: relative;
+
+}
+
+button {
+
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    /* font-size:0px; */
+
+
+}
+
+.join-game {
+    position: absolute;
+    color: #FFF;
+    font-family: Inter;
+    text-align: center;
+    font-size: 5px;
+    font-weight: 700;
+    top: 19.5vh;
+    left: 16.1vh;
+
+}
+
+.join-game1 {
+    position: absolute;
+    color: #FFF;
+    font-family: Inter;
+    text-align: center;
+    font-size: 3px;
+    font-weight: 700;
+    top: 14.5vh;
+    left: 10vh;
+
+
+}
+
+.join-game2 {
+    position: absolute;
+    color: #FFF;
+    font-family: Inter;
+    text-align: center;
+    font-size: 3px;
+    font-weight: 700;
+    top: 17vh;
+    left: 9.8vh;
+
+}
+
+input[type="text"] {
+    background: transparent;
+    border: none;
+    border-radius: 9px;
+}
+
+input[type="password"] {
+    background: transparent;
+    border: none;
+    border-radius: 9px;
+}
+
+.user {
+    width: 100px;
+    height: 4.5px;
+    margin-top: 10vh;
+    margin-left: 4.5vh;
+}
+
+.password {
+    width: 100px;
+    height: 4.5px;
+    margin-top: 1.5vh;
+    margin-left: 4.5vh;
+}
+
+.agree {
+    padding-left: 18px;
+    padding-top: 10px;
+    border-radius: 5px;
+    margin-top: 16.3vh;
+    margin-left: 24.8vh;
+}
+
+@media (min-width:360px) and (max-width:419px) {
+    .join-game {
+        top: 23.6vh;
+        left: 19vh;
+    }
+
+    .join-game1 {
+        top: 17vh;
+        left: 12vh;
+
+    }
+
+    .join-game2 {
+        top: 20vh;
+        left: 12vh;
+
+    }
+
+    .user {
+        width: 118px;
+        height: 4.75px;
+        margin-top: 12vh;
+        margin-left: 5.5vh;
+    }
+
+    .password {
+        width: 118px;
+        height: 4.75px;
+        margin-top: 2vh;
+        margin-left: 5.5vh;
+    }
+
+    .agree {
+        padding-left: 25px;
+        padding-top: 10px;
+        border-radius: 5px;
+        margin-top: 19vh;
+        margin-left: 29vh;
+    }
+
+
+
+
+}
+
+@media (min-width:420px) and (max-width:760px) {
+    .join-game {
+        top: 27vh;
+        left: 22.5vh;
+    }
+
+    .join-game1 {
+        top: 19.4vh;
+        left: 13.5vh;
+        font-size: 4px;
+
+    }
+
+    .join-game2 {
+        top: 22.75vh;
+        left: 13.5vh;
+        font-size: 4px;
+
+    }
+
+    .user {
+        width: 130px;
+        height: 8px;
+        margin-top: 13.5vh;
+        margin-left: 6.5vh;
+    }
+
+    .password {
+        width: 130px;
+        height: 8px;
+        margin-top: 2.5vh;
+        margin-left: 6.5vh;
+    }
+
+    .agree {
+        padding-left: 25px;
+        padding-top: 10px;
+        border-radius: 5px;
+        margin-top: 22vh;
+        margin-left: 33.5vh;
+    }
+}
+
+@media (min-width:761px) and (max-width:1020px) {
+    .join-game {
+        top: 49vh;
+        left: 40vh;
+        font-size: 10px;
+    }
+
+    .join-game1 {
+        top: 36vh;
+        left: 25vh;
+        font-size: 6px;
+
+    }
+
+    .join-game2 {
+        top: 42.65vh;
+        left: 25vh;
+        font-size: 6px;
+
+    }
+
+    .user {
+        width: 260px;
+        height: 16px;
+        margin-top: 25.5vh;
+        margin-left: 12vh;
+    }
+
+    .password {
+        width: 260px;
+        height: 16px;
+        margin-top: 5vh;
+        margin-left: 12vh;
+    }
+
+    .agree {
+        padding-left: 55px;
+        padding-top: 18px;
+        border-radius: 5px;
+        margin-top: 41.0vh;
+        margin-left: 61vh;
+    }
+}
+
+@media (min-width:1021px) and (max-width:1380px) {
+    .join-game {
+        top: 65vh;
+        left: 54vh;
+        font-size: 15px;
+    }
+
+    .join-game1 {
+        top: 48vh;
+        left: 34vh;
+        font-size: 8px;
+
+    }
+
+    .join-game2 {
+        top: 57vh;
+        left: 34vh;
+        font-size: 8px;
+
+    }
+
+    .user {
+        width: 350px;
+        height: 24px;
+        margin-top: 34vh;
+        margin-left: 16vh;
+    }
+
+    .password {
+        width: 350px;
+        height: 24px;
+        margin-top: 6vh;
+        margin-left: 16vh;
+    }
+
+    .agree {
+        padding-left: 80px;
+        padding-top: 27px;
+        border-radius: 5px;
+        margin-top: 55vh;
+        margin-left: 81vh;
+    }
+
+
+}
+
+@media (min-width:1380px) and (max-width:1445px) {
+    .join-game {
+        top: 70vh;
+        left: 60vh;
+        font-size: 17px;
+    }
+
+    .join-game1 {
+        top: 51vh;
+        left: 37vh;
+        font-size: 11px;
+
+    }
+
+    .join-game2 {
+        top: 60vh;
+        left: 36.8vh;
+        font-size: 11px;
+
+    }
+
+    .user {
+        width: 499px;
+        height: 35px;
+        margin-top: 36.5vh;
+        margin-left: 17vh;
+    }
+
+    .password {
+        width: 499px;
+        height: 35px;
+        margin-top: 6vh;
+        margin-left: 17vh;
+    }
+
+    .agree {
+        padding-left: 115px;
+        padding-top: 35px;
+        border-radius: 5px;
+        margin-top: 57.8vh;
+        margin-left: 87vh;
+    }
+}
+
+@media(min-width:1446px) and (max-width:1900px) {
+    .join-game {
+        top: 70vh;
+        left: 60vh;
+        font-size: 17px;
+    }
+
+    .user {
+        width: 499px;
+        height: 35px;
+        margin-top: 36.5vh;
+        margin-left: 17vh;
+    }
+
+    .password {
+        width: 499px;
+        height: 35px;
+        margin-top: 6vh;
+        margin-left: 17vh;
+    }
+
+    .agree {
+        padding-left: 115px;
+        padding-top: 35px;
+        border-radius: 5px;
+        margin-top: 57.8vh;
+        margin-left: 87vh;
+    }
+
+    .join-game1 {
+        top: 51vh;
+        left: 37vh;
+        font-size: 11px;
+
+    }
+
+    .join-game2 {
+        top: 60vh;
+        left: 36.8vh;
+        font-size: 11px;
+
+    }
+
+
+
+}
+
+/* mine */
+@media(min-width:1901px) and (max-width:2545px) {
+    .join-game {
+        top: 111vh;
+        left: 93vh;
+        font-size: 25px;
+
+    }
+
+    .bdy {
+        height: 1150px;
+
+    }
+
+    .bdy2 {
+        height: 1150px;
+    }
+
+    .bdy3 {
+        height: 1150px;
+    }
+
+    .join-game1 {
+        top: 82vh;
+        left: 60vh;
+        font-size: 15px;
+
+    }
+
+    .join-game2 {
+        top: 96vh;
+        left: 60vh;
+        font-size: 15px;
+
+    }
+
+    .user {
+        width: 660px;
+        height: 48px;
+        margin-top: 58vh;
+        margin-left: 28vh;
+    }
+
+    .password {
+        margin-top: 9.5vh;
+        width: 660px;
+        height: 48px;
+        margin-left: 28vh;
+    }
+
+    .agree {
+        padding-left: 170px;
+        padding-top: 48px;
+        border-radius: 15px;
+        margin-top: 93vh;
+        margin-left: 137vh;
+    }
+
+    .bdy4{
+        height:1170px;
+    }
+
+   
+
+
+
+
+
+
+
+
+}
+
+@media(min-width:2546px) {
+    .join-game {
+        font-size: 30px;
+        top: 67vh;
+        left: 56vh;
+    }
+
+    .join-game1 {
+        font-size: 22px;
+        top: 49vh;
+        left: 35vh;
+    }
+
+    .join-game2 {
+        font-size: 22px;
+        top: 57vh;
+        left: 35vh;
+    }
+
+    .user {
+        width: 870px;
+        height: 50px;
+        margin-top: 35vh;
+        margin-left: 17vh;
+    }
+
+    .password {
+        width: 870px;
+        height: 50px;
+        margin-top: 6.5vh;
+        margin-left: 17vh;
+    }
+
+    .agree {
+        padding-left: 200px;
+        padding-top: 86px;
+        border-radius: 5px;
+        margin-top: 55vh;
+        margin-left: 83vh;
+    }
+
+
+
+    /* .bdy2{
+        height:1150px;
+    }
+
+    .join-game1{
+        top:82vh;
+        left: 60vh;
+        font-size: 15px;
+
+    }
+
+    .join-game2{
+        top:96vh;
+        left:60vh;
+        font-size:15px;
+
+    } */
+
+
+
+
+}
+
+
+
+
+
+
+
+h1 a {
+    text-decoration: none;
+    color: white;
+}
