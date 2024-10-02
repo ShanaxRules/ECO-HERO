@@ -11,6 +11,27 @@
     position: relative;
 
 }
+.bdy5{
+    background-image: url("Dashboard.png");
+    overflow: auto;
+    background-size: 100% auto;
+
+
+    background-repeat: no-repeat;
+
+    width: 100%;
+    height: 100%;
+    position: relative;
+
+}
+
+.Enter{
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    
+
+}
 
 .bdy2 {
     background-image: url("sign-in.png");
@@ -54,7 +75,7 @@
 
 }
 
-button {
+button .agree {
 
     background: transparent;
     border: none;
@@ -135,6 +156,15 @@ input[type="password"] {
     margin-left: 24.8vh;
 }
 
+@media (max-width:359px){
+    .Enter{
+        margin-left:16.5vh;
+        margin-top:21vh;
+        width:35px;
+        height:20px;
+    }
+}
+
 @media (min-width:360px) and (max-width:419px) {
     .join-game {
         top: 23.6vh;
@@ -173,6 +203,13 @@ input[type="password"] {
         border-radius: 5px;
         margin-top: 19vh;
         margin-left: 29vh;
+    }
+
+    .Enter{
+        margin-left:19.5vh;
+        margin-top:25.5vh;
+        width:36px;
+        height:20px;
     }
 
 
@@ -221,6 +258,13 @@ input[type="password"] {
         margin-top: 22vh;
         margin-left: 33.5vh;
     }
+
+    .Enter{
+        margin-left:22.5vh;
+        margin-top:29vh;
+        width:38px;
+        height:20px;
+    }
 }
 
 @media (min-width:761px) and (max-width:1020px) {
@@ -265,6 +309,13 @@ input[type="password"] {
         margin-top: 41.0vh;
         margin-left: 61vh;
     }
+
+    .Enter{
+        margin-left:42vh;
+        margin-top:54vh;
+        width:63px;
+        height:24px;
+    }
 }
 
 @media (min-width:1021px) and (max-width:1380px) {
@@ -308,6 +359,15 @@ input[type="password"] {
         border-radius: 5px;
         margin-top: 55vh;
         margin-left: 81vh;
+    }
+
+    
+
+    .Enter{
+        margin-left:55vh;
+        margin-top:72vh;
+        width:100px;
+        height:33px;
     }
 
 
@@ -355,6 +415,13 @@ input[type="password"] {
         margin-top: 57.8vh;
         margin-left: 87vh;
     }
+
+    .Enter{
+        margin-left:58vh;
+        margin-top:77vh;
+        width:140px;
+        height:39px;
+    }
 }
 
 @media(min-width:1446px) and (max-width:1900px) {
@@ -398,6 +465,13 @@ input[type="password"] {
         left: 36.8vh;
         font-size: 11px;
 
+    }
+
+    .Enter{
+        margin-left:58vh;
+        margin-top:77vh;
+        width:140px;
+        height:39px;
     }
 
 
@@ -466,6 +540,17 @@ input[type="password"] {
         height:1170px;
     }
 
+    .Enter{
+        margin-left:94vh;
+        margin-top:122vh;
+        width:180px;
+        height:65px;
+    }
+
+    .bdy5{
+        height:1270px;
+    }
+
    
 
 
@@ -516,6 +601,13 @@ input[type="password"] {
         border-radius: 5px;
         margin-top: 55vh;
         margin-left: 83vh;
+    }
+
+    .Enter{
+        margin-left:55vh;
+        margin-top:72vh;
+        width:245px;
+        height:90px;
     }
 
 
