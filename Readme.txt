@@ -8,5 +8,5 @@ This project is a educational and observational software that focuses on how we 
 
 ##Make sure to have internet access while using the system as datas are fetched.
 
-Figma Link: https://www.figma.com/proto/Xw40tBgLiyFuBdZFxvcwX6/Nasa-Space-app-Project?node-id=391-81&amp;starting-point-node-id=449%3A98&amp;t=FEltW3hphfJq51xS-1
+Figma Link: https://www.figma.com/proto/xdCSNrw7BB73GarGpylyRs/Envo-Fighter
 
