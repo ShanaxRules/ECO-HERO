@@ -1,9 +1,9 @@
 # Eco_Hero: An Educational and Observational Software
 
-**Prototype**: [Eco_Hero Figma Design & Prototype](https://www.figma.com/proto/xdCSNrw7BB73GarGpylyRs/Envo-Fighter)  
-Explore the detailed design and user journey for Eco_Hero through this interactive Figma prototype.
+**Prototype**: [ECO-HERO Figma Design & Prototype](https://www.figma.com/proto/xdCSNrw7BB73GarGpylyRs/Envo-Fighter)  
+Explore the detailed design and user journey for ECO-HERO through this interactive Figma prototype.
 
-Eco_Hero is an interactive educational software designed to help players learn about environmental protocols through engaging gameplay. Inspired by NASA's GLOBE protocols, the software not only educates but also encourages real-life environmental activities that are verified within the game to earn points and rewards. The platform includes a social interaction space where players can engage with a community and track various environmental data in real-time.
+ECO-HERO is an interactive game designed to educate and engage players in tackling real-world environmental issues. It incorporates NASA data and GLOBE Protocols to teach players about Earth's systems, like the atmosphere and soil, while guiding them to complete meaningful tasks such as planting trees, cleaning polluted water, and monitoring local environmental conditions. Players can level up, earn points, and join a community to discuss environmental challenges. The game targets a broad audience, empowering players to take action and contribute to a sustainable future through small, impactful actions.
 
 ## Features
 
@@ -27,6 +27,4 @@ Eco_Hero is an interactive educational software designed to help players learn a
 - **Internet Access**:  
   Make sure to have a stable internet connection as the software relies on live data fetching and real-time interaction.
 
-
-
-**Eco_Hero** is a collaborative project aimed at educating and inspiring collective action for a better, greener future. Let's save the planet, one mission at a time!
+[Learn More about ECO-HERO](https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/envo_fighters/?tab=project)
