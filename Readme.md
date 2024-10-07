@@ -1,4 +1,4 @@
-# Eco_Hero: Make a Real Impact, While Having Fun!
+# ECO-HERO: Make a Real Impact, While Having Fun!
 
 **Prototype**: [ECO-HERO Figma Design & Prototype](https://www.figma.com/proto/xdCSNrw7BB73GarGpylyRs/Envo-Fighter)  
 Explore the detailed design and user journey for ECO-HERO through this interactive Figma prototype.
